@@ -1,0 +1,14 @@
+img {
+  width: 50%;
+  display: block;
+  margin: auto;
+  padding: 10px;
+}
+
+/*#short, #medium, #tall {
+  display: none;
+}*/
+
+.highlighter {
+  background-color: yellow;
+}
